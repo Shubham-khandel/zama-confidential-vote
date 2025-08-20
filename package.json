@@ -13,7 +13,7 @@
     "dotenv": "^16.4.5"
   },
   "dependencies": {
-    "@zama-fhe/solidity": "^0.4.0",
+    "@zama-fhe/solidity": "github:zama-ai/fhevm-solidity",
     "@zama-fhe/hardhat-fhevm": "github:zama-ai/fhevm-hardhat-plugin",
     "ethers": "^6.12.0"
   }
