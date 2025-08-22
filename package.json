@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@zama-fhe/solidity": "github:zama-ai/fhevm-solidity",
-    "@zama-fhe/hardhat-fhevm": "github:zama-ai/fhevm-hardhat-plugin",
+    "@zama-fhe/hardhat-fhevm": "git+https://github.com/zama-ai/fhevm-hardhat-plugin.git",
     "ethers": "^6.12.0"
   }
 }
